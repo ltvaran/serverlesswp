@@ -1,0 +1,10 @@
+.tp-button.green.custom{
+font-size: 16px;
+text-transform: uppercase;
+border-radius: 0;
+box-shadow: none;
+text-shadow: none;
+padding: 10px 15px;  
+letter-spacing: 1px;
+background:#ec894d;
+}

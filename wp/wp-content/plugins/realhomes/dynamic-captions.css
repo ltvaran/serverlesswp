@@ -1,0 +1,123 @@
+.tp-caption.realhomes_large_white, .realhomes_large_white {
+font-size:36px;
+line-height:44px;
+font-weight:700;
+font-family:Arial;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+text-shadow:rgba(0, 0, 0, 0.498039) 0px 2px 5px;
+margin:0px;
+white-space:nowrap;
+}
+
+.tp-caption.small_text, .small_text {
+font-size:14px;
+line-height:24px;
+font-weight:400;
+font-family:Arial;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+text-shadow:rgba(0, 0, 0, 0.498039) 0px 2px 5px;
+margin:0px;
+white-space:nowrap;
+}
+
+.tp-caption.medium_white_bg_text, .medium_white_bg_text {
+font-size:24px;
+line-height:30px;
+font-weight:700;
+font-family:Lato;
+color:rgb(78, 83, 84);
+text-decoration:none;
+background-color:rgb(255, 255, 255);
+padding:5px 20px 10px 30px;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+text-shadow:none;
+}
+
+.tp-caption.roundedtext, .roundedtext {
+font-size:30px;
+line-height:30px;
+font-weight:700;
+font-family:Lato;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(77, 199, 236);
+padding:50px 10px;
+border-radius:500px 500px 500px 500px;
+border-width:5px;
+border-color:rgb(255, 255, 255);
+border-style:solid;
+text-shadow:none;
+}
+
+.tp-caption.large_bold_black_text, .large_bold_black_text {
+font-size:36px;
+line-height:42px;
+font-weight:900;
+font-family:Lato;
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.normal_text_dark, .normal_text_dark {
+font-size:16px;
+line-height:28px;
+font-family:Lato;
+color:#000000;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(85, 85, 85);
+border-style:none;
+text-shadow:none;
+margin:0px;
+white-space:nowrap;
+text-align:center;
+}
+
+.tp-caption.black, .black {
+color:#000;
+text-shadow:none;
+}
+
+.tp-caption.large_bold_white_heading, .large_bold_white_heading {
+font-size:54px;
+line-height:60px;
+font-weight:800;
+font-family:Lato;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bold_price_text, .medium_bold_price_text {
+font-size:28px;
+line-height:36px;
+font-weight:700;
+font-family:Lato;
+color:rgb(226, 89, 24);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
